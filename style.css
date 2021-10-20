@@ -9,17 +9,19 @@ h3
 font-size:25px !important;
 }
 
-.btn-info{
+#btn-btn-info{
     height:60px;
     width:500px;
+    background-color: cyan;
 }
 
-.btn-success{
+#btn-btn-success{
     height:60px;
     width:800px;
+    background-color: green;
 }
 
-.btn-info:hover
+#btn-btn-info:hover
 {
     background-color:orange;
 }
